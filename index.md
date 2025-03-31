@@ -41,6 +41,8 @@
 ## 연락처
 
 - Email   : hjiyounggy08@gmail.com
+
+- Github  : <https://github.com/mejiyaming>
    
 - Youtube : <https://www.youtube.com/@yamingwtf/community>
   
